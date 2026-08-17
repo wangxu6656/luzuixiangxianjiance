@@ -1,0 +1,3 @@
+opencv-python>=4.6
+numpy>=1.26
+PyQt5>=5.15
